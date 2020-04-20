@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FireBaseImageOperation</string>
+    <string name="app_name">FactShots</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
@@ -31,7 +31,7 @@
     <string name="moreAt">more at Reuters/Yesterday</string>
     <string name="shortBY">short By Deepam Goel</string>
     <string name="tapHere">Tap here to read more</string>
-    <string name="my_feed">My Feed</string>
+    <string name="my_feed">FACT SHOTS</string>
     <string name="like">Like</string>
     <string name="like_count" />
     <string name="share">Share</string>
