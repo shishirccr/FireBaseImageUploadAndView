@@ -4,7 +4,7 @@
 Current features:
 - Upload image to FireBase.
 - Get uploaded images from FireBase.
-- View the images in an 'InShort' application style view (flip astyle).
+- View the content in a `flip animation` view.
 
 Pending features:
 - Delete uploaded images
